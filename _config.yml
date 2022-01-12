@@ -203,7 +203,7 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Nof
+  last_name: [Nof, Nof*]
   first_name: [Eliram, E.]
 
   style: apa
