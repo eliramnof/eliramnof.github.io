@@ -2,10 +2,15 @@
 layout: page
 permalink: /publications/
 title: publications
-description: <span>*</span> denotes equal contribution and joint lead authorship.
+description: 
 years: [2022, 2021, 2020, 2019, 2018, 2017, 2016]
 nav: true
 ---
+
+(also see my [Google Scholar](https://scholar.google.com/citations?user=SvsTtDwAAAAJ&hl=en) page)
+
+**<span>*</span>** denotes equal contribution and joint lead authorship.
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
