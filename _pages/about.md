@@ -23,4 +23,4 @@ Blastwave phenomena and hypersonic fluid-structure interactions for military and
 
 Laminar to low Reynolds turbulent flows in the human respiratory system for pharmacology and disease modeling, including airborne viral transmission. 
 
-More recently, I have been working on modeling flows in the tumor microenvironment of cancer patients for improved prediction, leveraging advanced image analysis tools and  and machine learning. 
+More recently, I have been working on modeling flows in the tumor microenvironment of cancer patients for improved prediction, leveraging advanced image analysis tools and machine learning. 
